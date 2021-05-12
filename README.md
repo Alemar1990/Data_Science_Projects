@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Projects
 
 ![What_is_Data_Science](What_is_Data_Science.jpg)
 
