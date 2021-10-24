@@ -32,10 +32,10 @@ To develop the models, we like to be guided by the following Framework:
 
 ## Framework
 <p align="center">
-<img src="https://www.section.io/engineering-education/data-mining-using-crisp-dm-methodology/crisp-dm-framework.png" width="400">
+<img src="https://www.section.io/engineering-education/data-mining-using-crisp-dm-methodology/crisp-dm-framework.png" width="800">
  
-Cross Industry Standard Process for Data Mining (CRISP-DM)
-"A data mining process model that describes commonly used approaches that data mining experts use to tackle problems... it was the leading methodology used by industry data miners." 
+## Cross Industry Standard Process for Data Mining (CRISP-DM)
+A data mining process model that describes commonly used approaches that data mining experts use to tackle problems... it was the leading methodology used by industry data miners. 
 
 This framework is based on the following steps
 
