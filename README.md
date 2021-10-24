@@ -37,7 +37,7 @@ To develop the models, we like to be guided by the following Framework:
 ## Cross Industry Standard Process for Data Mining (CRISP-DM)
 A data mining process model that describes commonly used approaches that data mining experts use to tackle problems... it was the leading methodology used by industry data miners. 
 
-This framework is based on the following steps
+This framework is based on the following steps:
 
 ### Business Issue Understanding
 This initial phase focuses on understanding the project objectives and requirements from a business perspective, and then converting this knowledge into a data mining problem definition, and a preliminary plan designed to achieve the objectives. A decision model, especially one built using the Decision Model and Notation standard can be used.
