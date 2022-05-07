@@ -1,0 +1,18 @@
+Instructions to be able to run the development in Flask:
+
+- Have the requirements of the file requirements.txt
+- Copy at the same level as app.py the files:
+sentiment_model.h5
+stopwords.pickle
+tokenizer.json
+- In the cmd have as current directory the location of the project folder
+- Once in the established directory write "python app.py runserver" (Wait for Running on)
+- In the browser enter http://localhost:5000/
+
+In the part of entering text, enter the desired comment:
+Example:
+@Vladi_VillegasP @YouTube @laidygomezf  una combinación perfecta entre belleza e inteligencia. La Gobernadora del Edo. Tachira es super Hermosa. Digna representante de la belleza Venezolana.
+
+
+
+ 

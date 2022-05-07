@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <title>Sentiment Analysis Project</title>
+</head>
+<body>
+    <h1>Sentiment Analysis Prediction</h1>
+    <p>Ingrese el texto para predecir si es positivo o negativo, y presione el boton.</p>
+    <form role="form" method="POST" action="/">
+        <div>
+            <input type="text" name="text" class="form-control" id="text-box" placeholder="Ingrese texto a predecir..." size=50>
+        </div>
+        <button type="submit" class="btn btn-default">Predecir</button>
+    </form>
+    <div>
+        <table>
+            <tr>
+                <td>Frase Original</td>
+                <td>{{result[0]}}</td>
+            </tr>
+            <tr>
+                <td>Frase Pretratada</td>
+                <td>{{result[1]}}</td>
+            </tr>
+            <tr>
+                <td>Sentimiento</td>
+                <td>{{result[2]}}</td>
+            </tr>        
+        </table>
+    </div>
+</body>
