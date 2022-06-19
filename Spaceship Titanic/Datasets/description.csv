@@ -1,0 +1,15 @@
+Variable,Definition,Key
+PassengerId,A unique Id for each passenger,
+HomePlanet,The planet the passenger departed from,
+CryoSleep,Indicates whether the passenger elected to be put into suspended animation for the duration of the voyage,
+Cabin,The cabin number where the passenger is staying, Takes the form deck/num/side where side can be either P for Port or S for Starboard
+Destination,The planet the passenger will be debarking to,
+Age,The age of the passenger,
+VIP,Whether the passenger has paid for special VIP service during the voyage,
+RoomService,Amount the passenger has billed,
+FoodCourt,Amount the passenger has billed,
+ShoppingMall,Amount the passenger has billed,
+Spa,Amount the passenger has billed,
+VRDeck,Amount the passenger has billed,
+Name,The first and last names of the passenger,
+Transported,Whether the passenger was transported to another dimension,
